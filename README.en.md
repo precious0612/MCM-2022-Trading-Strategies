@@ -28,3 +28,5 @@ In the `code` directory, you will find all of our code files:
 The `paper` directory contains our papers in both Chinese and English. These papers provide detailed explanations of our model's design, implementation, and evaluation process.
 
 The `flow_chart` directory contains flowcharts describing the main process of the project.
+
+![Project Flowchart](flow_chart/flow.svg)
