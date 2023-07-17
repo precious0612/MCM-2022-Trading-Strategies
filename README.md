@@ -29,3 +29,4 @@ crash_all < present_gold + average_gold * thePriceOfGold + average_bit * thePric
 
 `flow_chart`目录中存放的是描述项目主要流程的流程图。
 
+![Project Flowchart](flow_chart/flow.svg)
